@@ -1,9 +1,10 @@
 --------------------------
-Pinoccio
-(415) 300-0274
+A derivative of Pinoccio
+http://pinocc.io/
 hello@pinocc.io
 --------------------------
 
+Pinoccio/Original Authors:
 --------------------------
 Daniel Allemann
 daniel.allemann@thinlay.ch
